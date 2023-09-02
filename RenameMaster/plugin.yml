@@ -1,0 +1,10 @@
+name: RenameMaster
+main: RenameMaster\Loader
+author: Martincitoo
+api: 5.0.0
+version: 1.0
+
+permissions:
+  rename.command.use:
+    default: op
+    description: necesitas este permiso para executar el comando!
